@@ -10,7 +10,7 @@
 
 ![Intro Screen](bin/IntroScreen.png)(Intro screen)
 
-![Game play](bin/UI\ Designs/Move\ Pet\ Command.png)(Game Play)
+![Game play](bin/ui/move_pet.png)(Game Play)
 
 ### Game Overview
 
