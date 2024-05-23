@@ -2,7 +2,15 @@
 
 **Kill The Joker** is a multi-player game set in the Arkham Asylum world. Players take on the roles of inmates trying to hunt down and kill the Joker, who is one of the characters controlled by the game.
 
-[![Intro Screen](bin/IntroScreen.png)]
+### Link to the UML Diagram
+
+[UML Diagram](https://github.com/Subhankar29/Arkham-Asylum-Strategy-Game/blob/main/res/Milestone%204%20UML.pdf)
+
+### Screenshot of the Gameplay
+
+![Intro Screen](bin/IntroScreen.png)(Intro screen)
+
+![Game play](bin/UI\ Designs/Move\ Pet\ Command.png)(Game Play)
 
 ### Game Overview
 
